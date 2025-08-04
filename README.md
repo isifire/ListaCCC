@@ -1,9 +1,5 @@
-## Lista de cosas por saber, llevar y hacer en el Chaos Communication Congress
-
+# Cosas que deberías saber antes, durante y después del Chaos Communication Congress
 Esta es una guía completa para prepararte para asistir a congresos, conferencias u otros eventos similares, especialmente pensada para el Chaos Communication Congress (CCC). También es útil para viajes generales.
-
-
-# Cosas que deberías saber antes, durante y después del congreso
 
 ## Venta de entradas
 

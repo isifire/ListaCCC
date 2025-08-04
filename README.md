@@ -1,5 +1,16 @@
-# Cosas que deberías saber antes, durante y después del Chaos Communication Congress
+# Cosas que deberías saber para el Chaos Communication Congress
 Esta es una guía completa para prepararte para asistir a congresos, conferencias u otros eventos similares, especialmente pensada para el Chaos Communication Congress (CCC). También es útil para viajes generales.
+
+## Detalles del congreso
+- **Nombre**: Chaos Communication Congress (CCC).
+- **Edición**: XXC3 (Este año es el 39C3).
+- **Fechas**: del **27 al 30 de diciembre** (Todos los años es la misma fecha aprox)
+- **Duración**: 4 días.
+- **Ubicación**: Congress Center Hamburg, Hamburgo, Alemania.
+- **Organiza**: Chaos Computer Club (CCC).
+- **Temas principales**: Tecnología, privacidad, seguridad informática, política digital, hacking ético, arte y sociedad.
+- **Idioma principal**: Inglés y Alemán.
+- **Asistencia esperada**: +15.000 personas de todo el mundo.
 
 ## Venta de entradas
 
@@ -18,6 +29,16 @@ Esta es una guía completa para prepararte para asistir a congresos, conferencia
     - 12-11-2024 a las 20:00 (CET)
     - 17-11-2024 a las 16:00 (CET)
     - 23-11-2024 a las 11:00 (CET)
+
+## Recomendaciones y detalles
+- Llevar un seguro de viaje, hotel y tarjeta sanitaria europea.
+- Llevar comida para el primer día del viaje.
+- Los días 25 y 26 de diciembre son festivos, hay pocas cosas abiertas.
+
+## Horarios de comidas
+- 🥐 Desayuno (Frühstück): Entre 07:00 y 09:30
+- 🍽️ Comida / Almuerzo (Mittagessen): Entre 12:00 y 14:00
+- 🌙 Cena (Abendessen o Abendbrot): Entre 17:30 y 20:00
 
 
  
@@ -83,7 +104,7 @@ Esta es una guía completa para prepararte para asistir a congresos, conferencia
 - Busca eventos locales relacionados.
 
 
-# Cosas por llevar
+# Cosas que deberías llevar al CCC
 
 ## 🎒 Cosas que llevar
 
